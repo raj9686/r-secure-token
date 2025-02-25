@@ -1,6 +1,6 @@
 {
   "name": "r-secure-token",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "R secure token generation library using AES-GCM and Ed25519",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -21,8 +21,7 @@
   "author": "Rajesh Gauswami",
   "license": "MIT",
   "dependencies": {
-    "libsodium-wrappers": "^0.7.10",
-    "r-secure-token": "^1.0.4"
+    "libsodium-wrappers": "^0.7.10"
   },
   "devDependencies": {
     "@types/libsodium-wrappers": "^0.7.14",
